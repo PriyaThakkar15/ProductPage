@@ -1,0 +1,29 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.bg-gradient{
+    background-image: linear-gradient(to bottom right, #1CD8D2,#93EDC7);
+}
+ul{
+    list-style: none;
+
+}
+ul li{
+    display: inline-block;
+
+}
+li{
+    color: #00b0ff;
+}
+.divider{
+    height: 5px;
+    width: 105px;
+    background-color: cornflowerblue;
+}
+
+
+
+
+
+
